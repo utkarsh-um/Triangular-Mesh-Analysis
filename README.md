@@ -1,6 +1,7 @@
 # Triangular-Mesh-Analysis
 Data Structures &amp; Algorithms Course, IIT Delhi
-# Problem Statement: http://web.iitd.ac.in/~csz188551/COL106_2019/assignment6/index.html
+# Problem Statement: 
+http://web.iitd.ac.in/~csz188551/COL106_2019/assignment6/index.html
 
 # Report for my implementation:
 Point Class:
